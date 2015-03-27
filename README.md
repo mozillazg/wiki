@@ -1,0 +1,2 @@
+# wiki
+wiki.mozillazg.com
